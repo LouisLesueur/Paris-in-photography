@@ -1,0 +1,39 @@
+body{
+  background-image: url("../img/back.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#title {
+  text-align: center;
+  margin: 10px;
+  padding: 50px;
+
+}
+
+.cd-timeline{
+  background-image: url("../img/back.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.cd-timeline__img{
+  background-color: #303F4A;
+}
+
+.cd-timeline__date{
+  font-size: 40px;
+  color: black;
+}
+
+.card-text{
+  color: black;
+  font-size: 15px;
+}
+
+.color-contrast-medium{
+  color: black;
+  font-size: 15px;
+}
