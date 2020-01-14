@@ -30,3 +30,13 @@
   color: black;
   font-size: 15px;
 }
+
+img{
+  max-width: 200%;
+  max-height: 200%;
+}
+
+div.modal-dialog{
+  max-width: 1000%;
+  max-height: 1000%;  
+}
